@@ -9,11 +9,11 @@
  * An add-on to bring out the theme colors as CSS variables
  */
 
-@import "functions";
+@import "~bootstrap/scss/functions";
 @import "dark/functions";
 @import "variables";  // defaults are here
 @import "variables-alt";  // dark color set is here
-@import "mixins";
+@import "~bootstrap/scss/mixins";
 @import "dark/mixins";
 
 $color-palette: (

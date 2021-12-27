@@ -7,10 +7,10 @@
 
 // scss-docs-start import-stack
 // Configuration
-@import "functions";
+@import "~bootstrap/scss/functions";
 @import "variables";
-@import "mixins";
-@import "utilities";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/utilities";
 @import "dark/patch";  // missing from BS, unsupported patch/hack
 
 // Layout & components

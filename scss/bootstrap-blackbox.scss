@@ -16,13 +16,13 @@
 $enable-colors-hack: true;
 
 // Configuration
-@import "functions";
+@import "~bootstrap/scss/functions";
 @import "dark/functions";
 @import "variables";  // defaults are here
 @import "variables-alt";  // dark color set is here
-@import "mixins";
+@import "~bootstrap/scss/mixins";
 @import "dark/mixins-2";  // !!!! fix for issue #32
-@import "utilities";
+@import "~bootstrap/scss/utilities";
 @import "dark/utilities";
 @import "dark/patch";  // missing from BS, unsupported patch/hack
 
