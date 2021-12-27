@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-dark-5",
+  "name": "@timokluser-dev/bootstrap-dark-5",
   "version": "1.1.3",
   "description": "The Ancillary Guide to Dark Mode and Bootstrap 5 - A continuation of the v4 Dark Mode POC",
   "main": "",
@@ -52,15 +52,15 @@
     "bump-minor": "npm version minor",
     "bump-patch": "npm version patch"
   },
-  "author": "Vino Rodrigues",
-  "homepage": "https://vinorodrigues.github.io/bootstrap-dark-5/",
+  "author": "timokluser-dev",
+  "homepage": "https://github.com/timokluser-dev/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinorodrigues/bootstrap-dark-5.git"
+    "url": "git+https://github.com/timokluser-dev/bootstrap-dark-5.git"
   },
   "bugs": {
-    "url": "https://github.com/vinorodrigues/bootstrap-dark-5/issues"
+    "url": "https://github.com/timokluser-dev/bootstrap-dark-5/issues"
   },
   "style": "dist/css/bootstrap-dark.css",
   "sass": "scss/bootstrap-dark.scss",
